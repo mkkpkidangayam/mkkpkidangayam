@@ -1,8 +1,6 @@
--👋 Hi, I’m Mohammed Khaedul Khair (@mkkpkidangayam)
--👀 I’m interested in Web development
--🌐 MERN Stack Developer
--📫 How to reach me: mkkpkdm@gmail.com
-
+- 👋 Hi, I’m Mohammed khaedul khair (@mkkpkidangayam)
+- 👀 I’m interested in Web development 
+- 📫 How to reach me ...mkkpkdm@gmail.com
 
 
 
